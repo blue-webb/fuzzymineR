@@ -14,7 +14,7 @@ Imports:
     dplyr,
     bupaR,
     stringr,
-    xesreadR,
+    xml2,
     DiagrammeR
 License: GPL
 Encoding: UTF-8
